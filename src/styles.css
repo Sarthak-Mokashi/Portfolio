@@ -190,7 +190,7 @@ section {
 .row {
     max-width: 1245px;
     margin: 0 auto;
-    padding: 75px 0;
+    /* padding: 75px 0; */
     position: relative;
 }
 
@@ -479,6 +479,7 @@ section {
 
 #header {
     font-size: 13px;
+    color:crimson;
 }
 
 #header aside {
@@ -492,6 +493,7 @@ section {
 
 #header nav a {
     height: 71px;
+    color:crimson;
     line-height: 71px;
     display: block;
     padding: 0 10px;
@@ -668,6 +670,7 @@ nav#nav-mobile a:hover {
 .social-icons {
     display: inline-block;
     list-style: none;
+    color:crimson;
 }
 
 .social-icons a {
@@ -785,7 +788,7 @@ h6 {
 
 #banner-content.row {
     padding-top: 170px;
-    padding-bottom: 100px;
+    /* padding-bottom: 100px; */
 }
 
 #banner h1 {
@@ -2384,7 +2387,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color:#111;
+    color:crimson;
 }
 
 
@@ -2454,8 +2457,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("assets/images/banner-images/banner-image-1.jpg") no-repeat center top;
-    background-size:cover;
+    background: url("assets/images/banner-images/portfolio2.png") no-repeat center top;
+    background-size:contain;
 }
 
 
