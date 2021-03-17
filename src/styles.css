@@ -51,7 +51,7 @@ body {
 }
 
 p {
-    line-height: 25px;
+    /* line-height: 25px; */
 }
 
 .row img {
@@ -207,7 +207,7 @@ section {
 
 .row {
     max-width: 1245px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     /* padding: 75px 0; */
     position: relative;
 }
@@ -2378,13 +2378,13 @@ body {
 
 /* Default Link Color */
 
-a, .la-ball-triangle-path {
+/* a, .la-ball-triangle-path {
     color:#d2b356;
 }
 
 a:hover, #header.nav-solid nav a:hover {
     color:#d2b356;
-}
+} */
 
 /* Default Icon Color */
 
@@ -2597,8 +2597,8 @@ h4 {
 h5 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px; 
-    font-weight:400;
-    color:#111;
+    /* font-weight:400; */
+    /* color:#111; */
 }
 
 h6 {
