@@ -152,6 +152,10 @@ figure {
     padding-bottom: 70px;
 }
 
+.box-shadow{
+    box-shadow: 0 6px 16px 0 rgb(0 0 0 / 20%);
+}
+
 
 /* --------- 1.1 Input Elements ---------- */
 

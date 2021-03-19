@@ -14,6 +14,7 @@ import { HeaderComponent } from './header/header.component';
 import { SocialmediaComponent } from './socialmedia/socialmedia.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { AboutComponent } from './about/about.component';
+import { BlogsComponent } from './blogs/blogs.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { AboutComponent } from './about/about.component';
     HeaderComponent,
     SocialmediaComponent,
     NavigationComponent,
-    AboutComponent
+    AboutComponent,
+    BlogsComponent
   ],
   imports: [
     BrowserModule,
